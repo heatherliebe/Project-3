@@ -31,7 +31,7 @@
  
  body {
   
-   background-image: url('../images/mountain_goat.jpg');
+   background-image: url("../images/mountain_goat.jpg");
      background-repeat: no-repeat;
      width: 90%;
      height: 550px;
