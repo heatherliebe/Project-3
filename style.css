@@ -54,7 +54,7 @@
    .div-with-text
    {
      margin-left:25%;
-     padding-top: 40%;
+     padding-top: 50%;
      color: white;
      font-family: arial, helvetica, san-serif;
      
@@ -65,7 +65,7 @@
    }
  
  .contact {
-   color:black;
+   color: white;
    margin-left: 25%;
    margin-top:10%;
    height:10%;
