@@ -12,6 +12,13 @@
    padding: 0;
    list-style: none;
  }
+
+ .nav:hover{
+    background-color: gold;
+    color: #333;
+ }
+
+ 
  .nav li {
    margin: 0;
    padding-left: .5em;
