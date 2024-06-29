@@ -33,7 +33,7 @@
      text-decoration: none; 
  }
 
- .li:hover{
+ div.li:hover{
   background-color: red;
   color: #333;
 }
