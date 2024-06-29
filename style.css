@@ -13,7 +13,7 @@
    list-style: none;
  }
 
- .nav:hover{
+ .li:hover{
     background-color: gold;
     color: #333;
  }
@@ -30,9 +30,14 @@
      line-height: 1em;
      padding-top: 10%;
      width: 100%;
-     text-decoration: none;
-   
+     text-decoration: none; 
  }
+
+ .li:hover{
+  background-color: gold;
+  color: #333;
+}
+
  .nav img{
   display:inline;
   width: 25%;
