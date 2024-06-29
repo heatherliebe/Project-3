@@ -5,8 +5,6 @@
   float: left;
   height:100%;
   
-  
-  
  }
  
  .nav{
@@ -35,7 +33,6 @@
  }
  
  body {
-  
    background-image: url("https://images.unsplash.com/photo-1623692916412-4bff16944331?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkwODcxOTJ8&ixlib=rb-4.0.3&q=85");
      background-repeat: no-repeat;
      width: 90%;
@@ -45,7 +42,7 @@
     
     
    
-   a{
+   a {
      color: white;
      text-decoration: none;
      list-style-type: none;
@@ -56,13 +53,12 @@
     padding: 20px;
    }
    
-   .div-with-text
-   {
+   .div-with-text {
      margin-left:25%;
-     padding-top: 50%;
+     padding-top: 40%;
      color: white;
      font-family: arial, helvetica, san-serif;
-     
+     overflow: scroll;
  }
    
    li {
