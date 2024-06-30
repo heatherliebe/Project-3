@@ -40,8 +40,8 @@
 
   .logo{
     width: 30%;
-    position: right;
-    position: fixed;
+    display:block
+    
   }
   
   #about{
