@@ -6,6 +6,9 @@
   height:100%;
   
  }
+ .left img{
+  float: left;
+ }
  
  .nav{
    margin: 0;
