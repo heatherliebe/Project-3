@@ -3,12 +3,13 @@
   position: fixed;
   width: 20%;
   float: left;
-  height:100%;
-  
+  height:100%; 
  }
+ 
  .left img{
   float: left;
-  margin: 10%;
+  margin-left: 10%;
+  margin-top: 50%;
  }
  
  .nav{
