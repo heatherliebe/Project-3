@@ -57,13 +57,7 @@
      height: 800px;
      background-size: cover;
   }
-   #p2 img{
-    margin-left: 25%;
-    margin-top:10%;
-    height:10%;
-    display: relative;
-
-   }
+   
   #p3 {
     background-image: url("./images/sergei-a--heLWtuAN3c-unsplash.jpg"); 
     background-repeat: no-repeat;
