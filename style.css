@@ -46,7 +46,8 @@
   
   #about{
     text-shadow: 2px 2px #ff0000;
-    text-size; 24px;
+    text-align: left;
+    text-justify: ;
   }
 
  }
