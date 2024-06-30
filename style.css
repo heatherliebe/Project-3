@@ -94,7 +94,12 @@
    li {
      font-family: arial, helvetica, san-serif;
    }
- 
+   
+   .best practice {
+    float:right;
+    font-family: cursive;
+    margin-left: 50%;
+   }
  .contact {
    color: black;
    font-family: arial, helvetica, san-serif;
@@ -116,8 +121,4 @@
     font-family: arial, helvetica, san-serif;
   }
 
-  .best practice {
-   float:right;
-   font-family: cursive;
-   margin-left: 50%;
-  }
+  
