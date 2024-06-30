@@ -117,7 +117,7 @@
   }
 
   .best practice {
-    float:right;
+    display:inline-block;
     font-family: arial, helvetica, san-serif;
     
   }
