@@ -40,10 +40,15 @@
 
   .logo{
     width: 30%;
-    align-items: right;
+    position: 30px 30px;
     position: fixed;
   }
   
+  #about{
+    text-shadow: 2px 2px #ff0000;
+    text-size; 24px;
+  }
+
  }
  
  #home {
